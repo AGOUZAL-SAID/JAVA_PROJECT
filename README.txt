@@ -24,4 +24,4 @@ Robotism est un projet de simulation graphique représentant une usine où des r
      ```
 
 📜 Licence  
-Projet open-source sous licence.
+Projet open-source.
